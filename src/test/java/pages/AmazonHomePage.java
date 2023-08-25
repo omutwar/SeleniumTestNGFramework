@@ -33,7 +33,7 @@ public class AmazonHomePage {
 	public WebElement continue_btn;
 	
 	
-	@FindBy(className = "a-box-inner a-alert-container")
+	@FindBy(css = "h4.a-alert-heading")
 	public WebElement incorrect_passwd_alert_message;
 	
 	
