@@ -1,0 +1,5 @@
+2023-08-27 04:26:45.382 [main] INFO  tests.TestProperties - Printing project path: C:\Users\bughr\github\SeleniumTestNGFramework
+2023-08-27 04:26:45.388 [main] INFO  tests.TestProperties - Initiating properties file
+2023-08-27 04:26:45.389 [main] INFO  tests.TestProperties - Printing browser: chrome
+2023-08-27 04:26:45.389 [main] INFO  tests.TestProperties - Printing website url: "https://www.indeed.com/"
+2023-08-27 04:26:45.390 [main] INFO  tests.TestProperties - Reading locator value: div > a.ssn-blowup
