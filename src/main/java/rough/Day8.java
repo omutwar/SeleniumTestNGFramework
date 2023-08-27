@@ -1,10 +1,10 @@
-package main.java;
+package rough;
 
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class Day2 {
+public class Day8 {
 
 	@BeforeTest
 	public void setup() {

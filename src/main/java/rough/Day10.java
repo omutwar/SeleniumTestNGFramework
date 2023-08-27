@@ -1,8 +1,8 @@
-package main.java;
+package rough;
 
 import org.testng.annotations.Test;
 
-public class Day3 {
+public class Day10 {
 
 	@Test(groups = { "bank" })
 	public void bankLoadApp() {

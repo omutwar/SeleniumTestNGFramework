@@ -1,4 +1,4 @@
-package main.java;
+package rough;
 
 import org.testng.annotations.Test;
 

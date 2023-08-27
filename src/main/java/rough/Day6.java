@@ -1,4 +1,4 @@
-package main.java;
+package rough;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -6,7 +6,7 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-public class Day1 {
+public class Day6 {
 	static WebDriver driver;
 	
 	@BeforeSuite
