@@ -1,6 +1,7 @@
 package utils;
 
 import java.time.Duration;
+import java.util.List;
 import java.util.Random;
 
 import org.openqa.selenium.WebElement;
@@ -11,9 +12,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class BrowserUtils {
 
-	Actions action;
-	WebDriverWait wait;
-	Select letsSelect;
+	private Actions action = new Actions(Driver.getDriver());
+	private WebDriverWait wait = new WebDriverWait(Driver.getDriver(), Duration.ofSeconds(5));
+	private Select letsSelect;
 
 	// waits for an element to be visible
 	public void waitUntilElementVisible(WebElement element) {
@@ -85,6 +86,10 @@ public class BrowserUtils {
 			return false;
 		}
 		return true;
+	}
+	
+	public void waitForElementsToBeDisplayed(List<WebElement> elements) {
+		wait.until(ExpectedConditions.visibilityOfAllElements(elements));
 	}
 
 }

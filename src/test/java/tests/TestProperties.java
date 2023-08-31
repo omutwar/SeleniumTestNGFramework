@@ -6,7 +6,6 @@ import java.util.Properties;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.devtools.v113.browser.Browser;
 
 public class TestProperties {
 	public static Logger logger = LogManager.getLogger(TestProperties.class);

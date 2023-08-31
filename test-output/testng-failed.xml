@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tests.GridTests">
+      <class name="tests.EtsyHomePageTest">
         <methods>
-          <include name="test4"/>
-          <include name="test3"/>
-          <include name="test2"/>
-          <include name="test1"/>
+          <include name="teardown"/>
+          <include name="navCategoryTest"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- tests.GridTests -->
+      </class> <!-- tests.EtsyHomePageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

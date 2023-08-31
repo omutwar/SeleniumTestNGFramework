@@ -1,0 +1,45 @@
+2023-08-31 10:42:31.107 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 10:42:31.404 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 10:42:31.459 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 10:46:52.998 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 10:46:53.444 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 10:46:53.674 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 10:48:56.357 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 10:48:56.637 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 10:48:56.683 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 10:50:19.329 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 10:50:19.867 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 10:50:19.944 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 10:51:02.557 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 10:51:02.800 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 10:51:13.879 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 10:52:29.474 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 10:52:29.685 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 10:52:35.873 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 10:53:42.551 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 10:53:42.999 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 10:53:49.556 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 10:57:56.969 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 10:57:57.259 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 10:58:03.024 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 10:59:10.696 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 10:59:11.003 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 10:59:17.386 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 11:02:05.112 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 11:02:05.437 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 11:02:11.708 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 11:03:50.323 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 11:03:50.626 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 11:04:04.418 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 11:04:53.984 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 11:04:54.355 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 11:05:09.841 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 11:06:35.936 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 11:06:36.220 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 11:06:48.459 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 17:07:48.239 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 17:07:48.773 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 17:09:21.293 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed
+2023-08-31 17:08:52.235 [main] INFO  tests.EtsyHomePageTest - ** <setup> hook initializing the driver object
+2023-08-31 17:08:52.628 [main] INFO  tests.EtsyHomePageTest - Check the navigation page is displaying correctly
+2023-08-31 17:10:36.957 [main] INFO  tests.EtsyHomePageTest - *** <teardown> Method Has Been Executed

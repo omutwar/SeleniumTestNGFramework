@@ -1,5 +1,7 @@
 package pages;
 
+import java.util.List;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -11,6 +13,9 @@ public class EtsyHomePage {
 	public EtsyHomePage() {
 		PageFactory.initElements(Driver.getDriver(), this);
 	}
+	
+	@FindBy(css = "nav.wt-show-lg li.top-nav-item")
+	public List<WebElement> home_page_top_nav_categories;
 
 	@FindBy(xpath = "//a[@class='wt-display-table wt-width-full wt-text-link-no-underline']")
 	public WebElement jewelryAccesories;

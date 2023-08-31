@@ -9,7 +9,8 @@ public class DataReader {
 
 	static {
 		try {
-			File file = new File("./src/test/resources/testdata/variables.properties");
+			// /SeleniumTestNGFramework/src/test/resources/properties/Config.properties
+			File file = new File("./src/test/resources/properties/Config.properties");
 			FileInputStream input = new FileInputStream(file);
 			property = new Properties();
 			property.load(input);
